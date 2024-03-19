@@ -16,6 +16,26 @@
     "theme_version": "2.4.0",
     "theme_documentation_url": "http://help.stylehatch.com/",
     "theme_support_email": "help@stylehatch.com"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   },
   {
     "name": "Colors",
@@ -30,7 +50,7 @@
 
 
 
-        
+
         "label": "Text",
         "default": "#4f4f4f"
       },
