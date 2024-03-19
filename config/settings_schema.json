@@ -27,6 +27,10 @@
       {
         "type": "color",
         "id": "primary_text_color",
+
+
+
+        
         "label": "Text",
         "default": "#4f4f4f"
       },
